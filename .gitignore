@@ -1,0 +1,9 @@
+**/target
+.idea/
+**/*.iml
+**/*.log
+**/logs
+target/
+sofa.logging.path_IS_UNDEFINED/
+**/sofa.logging.path_IS_UNDEFINED
+
